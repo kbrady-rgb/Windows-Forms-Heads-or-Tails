@@ -1,0 +1,19 @@
+C:\Users\Kabrina\Documents\C#\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.exe.config
+C:\Users\Kabrina\Documents\C#\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.exe
+C:\Users\Kabrina\Documents\C#\HeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.pdb
+C:\Users\Kabrina\Documents\C#\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.headsOrTailsForm.resources
+C:\Users\Kabrina\Documents\C#\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.Properties.Resources.resources
+C:\Users\Kabrina\Documents\C#\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\C#\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.exe
+C:\Users\Kabrina\Documents\C#\HeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 2\BradyHeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.exe.config
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 2\BradyHeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 2\BradyHeadsOrTails\HeadsOrTails\bin\Debug\HeadsOrTails.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 2\BradyHeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 2\BradyHeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.headsOrTailsForm.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 2\BradyHeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.Properties.Resources.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 2\BradyHeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 2\BradyHeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 2\BradyHeadsOrTails\HeadsOrTails\obj\Debug\HeadsOrTails.pdb
